@@ -5,13 +5,13 @@ implement from scratch, a forward path of a convolutional layer and experiment w
 
 
 
-![image](https://user-images.githubusercontent.com/97550175/149203490-e450b875-8984-47be-9ef3-15c256f6de68.png)
+![image](https://user-images.githubusercontent.com/97550175/149203745-846d0fbd-5d44-40e8-95f3-2a05d91c719c.png)
+
+
+
+![image](https://user-images.githubusercontent.com/97550175/149203770-dfb4a93a-7689-41d5-ac77-8c1496e04675.png)
 
 
 
 
-![image](https://user-images.githubusercontent.com/97550175/149203593-56baa84f-30aa-49ba-8fa4-4ff87db8b5d0.png)
-
-
-
-![image](https://user-images.githubusercontent.com/97550175/149203659-e82e8f9b-bb93-40c9-8fd3-7e06bbd339cf.png)
+![image](https://user-images.githubusercontent.com/97550175/149203790-317afd83-b939-4d07-8037-6e0bf1af10dd.png)
