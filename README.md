@@ -7,4 +7,4 @@ implement from scratch, a forward path of a convolutional layer and experiment w
 
 ![image](https://user-images.githubusercontent.com/97550175/149203958-976b0f74-7bc6-46ae-8785-c01a3bc49480.png)
 
-
+![image](https://user-images.githubusercontent.com/97550175/149204006-7cd54973-5a31-4027-8e8b-3f2a1ca8769d.png)
